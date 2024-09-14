@@ -1,0 +1,22 @@
+.profile{
+display: flex;
+justify-content: center;
+padding: 20px;
+background-color: aquamarine;
+border-radius: 25px;
+width: 400px;
+height: 300px;
+}
+.profile img{
+    border-radius:100px ;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+.profile button{ 
+border:solid 1px rgb(140, 14, 140) ;
+border-radius: 60px;
+width: 200px;
+height: 40px;
+color: rgb(140, 14, 140) ;
+}
